@@ -3,6 +3,7 @@
 Naloga s custom post type-om in ajax klicem na Wordpress platformi.
 
 ## Navodila
+- "fork-aj" ta repository in ob končanju naloge naredi pull request
 - Uporabite temo twentyfifteen z novim custom post typom Event.
 - Vsak event ima poleg imena in opisa tudi datum, kdaj se izvede, kraj v katerem se dogaja, tip eventa (Koncert, Gledališka predstava, Konferenca, Festival...) in izbirnik drugih lastnosti, ki jih ima lahko vsak event več (Free parking, e-ticket, lunch included, early bird discount,...).
 - Na strani naj se prikažejo v seznamu, ki je omejen na 5 zadetkov z pagerjem spodaj. Nad seznamom naj bo filter, kjer lahko izberes katere tipe dogodkov naj prikazuje v seznamu.
