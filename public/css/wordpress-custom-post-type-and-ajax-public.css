@@ -1,0 +1,33 @@
+.event_filters.hentry {
+	margin-top: 4.1667% !important;
+	margin-bottom: 4.1667%;
+	padding: 2.0834% 10px;
+	text-align: center;
+}
+.filter_inputs label:not(:last-of-type) {
+	margin-right: 10px;
+}
+.type-event h2 {
+	margin-bottom: 0.6em
+}
+.type-event .event_data .type,
+.type-event .event_data .date,
+.type-event .event_data .location {
+	font-size: 90%;
+	display: inline-block;
+}
+.type-event .event_data .type {
+	font-style: italic;
+}
+.type-event .event_data .type::after {
+	content: "";
+	border-right: 1px solid black;
+	margin: 0 5px 0 10px;
+	height: 1em;
+}
+.navigation.pagination .page-numbers {
+	cursor: pointer;
+}
+.navigation.pagination .page-numbers:not(.current):hover {
+	color: rgba(51, 51, 51, 0.7);
+}
